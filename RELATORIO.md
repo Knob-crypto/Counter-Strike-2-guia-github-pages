@@ -2,9 +2,8 @@
 
 - **Disciplina:** Desenvolvimento Web I (DWI)
 - **Professor:** Hewerton Enes de Oliveira
-- **Aluno:** [Seu Nome Completo]
-- **Turma:** [Sua Turma]
-
+- **Aluno:** Enzo Knob
+- **Turma:** 1G
 ---
 
 ## 1. Passo a Passo do Desenvolvimento
